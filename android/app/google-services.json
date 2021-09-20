@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373682253575",
+    "project_id": "office-collab",
+    "storage_bucket": "office-collab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373682253575:android:f220cbb26e500f99ad5fa2",
+        "android_client_info": {
+          "package_name": "com.example.office_collab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373682253575-4ib4mi3p49sjo9266k9tjpl92vs0bqd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMhWvZiVxp8EpgpaSIFKEyjsFk8z1xg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373682253575-4ib4mi3p49sjo9266k9tjpl92vs0bqd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
