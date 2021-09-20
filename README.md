@@ -8,8 +8,9 @@ Frontend-Flutter,
 
 Backend- Firebase
 
-
-
+Admin Access: 
+Email Id: admin@tailor.com
+Password: 12345678
 
 - [Download the Application(Apk Build)](https://drive.google.com/file/d/1lR6FMC6Nz62UT3F6DwyntP7Oloj1GWHS/view?usp=sharing)
 
