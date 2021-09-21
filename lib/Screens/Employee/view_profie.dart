@@ -95,7 +95,7 @@ class _EmpDetailState extends State<EmpDetail> {
                       ),
                       TextFormField(
                         initialValue: skills,
-                        enabled: false,
+              
                         onChanged: (value) => skills = value,
                         decoration: const InputDecoration(
                           labelText: 'Skills',
